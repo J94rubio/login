@@ -6,7 +6,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
   var password = document.getElementById("password").value;
 
   // Lógica de autenticación
-  if (username === "admin" && password === "admin") {
+  if (username === "Jrubio94" && password === "Joserubio94") {
     document.getElementById("message").textContent = "Inicio de sesión exitoso.";
     
   } else {
